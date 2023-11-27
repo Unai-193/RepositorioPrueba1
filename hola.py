@@ -1,1 +1,1 @@
-echo hola mundo
+print("Hola mundo desde github")
